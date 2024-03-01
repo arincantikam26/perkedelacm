@@ -1,1 +1,1 @@
-<a href="https://arincantikam26.github.io/perkedelacm/" target="_blank">Click for show website</a>
+[Click for show website](https://arincantikam26.github.io/perkedelacm/ "Open in new tab")
